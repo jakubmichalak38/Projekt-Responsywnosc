@@ -24,12 +24,12 @@ header img {
     animation-name: animacja;
     animation-duration: 0.7s;
     border: 5px black solid;
-    opacity:1;
+    opacity:0.4;
     transition: 0.3s;
 }
 header img:hover
 {
-    transform: scale(0.9);opacity : 0.1;
+    transform: scale(1.2);opacity : 1;
 }
 
 
